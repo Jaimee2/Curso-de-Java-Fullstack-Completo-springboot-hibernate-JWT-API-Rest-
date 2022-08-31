@@ -28,5 +28,11 @@ https://www.youtube.com/watch?v=7vHzVN0EiQc&list=LL&index=2&t=6956s&ab_channel=L
 
 ### Sistema de sesión JWT
 
-![image](https://user-images.githubusercontent.com/52107919/187773048-1b1f2ed4-dc7d-4855-8146-9b39074f027a.png)
+![image](https://user-images.githubusercontent.com/52107919/187773219-7fcccb0e-b58d-4d4c-b3b3-cbe56cf7d588.png)
+
+### Base de datos mySQL
+
+![image](https://user-images.githubusercontent.com/52107919/187773390-f7c68f09-00a3-4946-b5ea-9e50a43d3072.png)
+
+
 
